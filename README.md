@@ -10,7 +10,17 @@
   <img src="https://github.com/Fuldiss/Minecraft/blob/main/assets/images/banner_t.png?raw=true" alt="Banner T" width="50" />
 </p>
 
-<center>
+<details>
+  <summary>⚙️ English</summary>
+  <a href="https://choosealicense.com/licenses/mit/" style="display: inline-block; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-align: center; text-decoration: none; font-weight: bold;">
+    Deutsch
+  </a>
+    <a href="https://choosealicense.com/licenses/mit/" style="display: inline-block; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-align: center; text-decoration: none; font-weight: bold; color: red;">
+    English
+  </a>
+</details>
+
+
 
 <br>
 <p align="center">
@@ -35,7 +45,7 @@
 <br><br>
 
 <h3 align="center">
-Disclaimer: This project is not an official project of Mojang Studios or Microsoft
+⚠️ Disclaimer: This project is not an official project of Mojang Studios or Microsoft ⚠️
 </h3>
 <p>This project was in no way created in collaboration with Mojang Studios or Microsoft. All content used in this project is owned and owned by Mojang Studios.
 </p>
